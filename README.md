@@ -6,6 +6,6 @@ This Spring Boot Chat Application is a simple chat system that allows users to c
 + User authentication
 
 # Technologies Used
-Java
++ Java
 + Spring Boot
 + WebSocket
